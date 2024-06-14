@@ -15,7 +15,7 @@ These factors are normalized and can be dynamically adjusted by users through an
 1. **Clone the repository**:
 
 ```bash
-git clone https://github.com/stenoagency/se-take-home-kristoffer.git
+git clone https://github.com/KrisStobbe/node-react-dashboard.git
 ```
 
 2. **Navigate to the backend directory** (from the root of the project):
